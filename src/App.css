@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.container-fluid{
+  background-color: red;
+}
+.container{
+  background-color: yellow;
+}
